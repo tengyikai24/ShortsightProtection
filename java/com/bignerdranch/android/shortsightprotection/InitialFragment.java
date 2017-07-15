@@ -55,8 +55,6 @@ public class InitialFragment extends Fragment {
                 startActivity(i);
             }
         });
-
-
-                return v;
+        return v;
     }
 }
